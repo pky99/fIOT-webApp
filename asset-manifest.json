@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fIOT-webApp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/fIOT-webApp/static/js/main.be2c82a3.chunk.js",
+    "main.js.map": "/fIOT-webApp/static/js/main.be2c82a3.chunk.js.map",
+    "runtime-main.js": "/fIOT-webApp/static/js/runtime-main.a63204cf.js",
+    "runtime-main.js.map": "/fIOT-webApp/static/js/runtime-main.a63204cf.js.map",
+    "static/js/2.ae6d4f13.chunk.js": "/fIOT-webApp/static/js/2.ae6d4f13.chunk.js",
+    "static/js/2.ae6d4f13.chunk.js.map": "/fIOT-webApp/static/js/2.ae6d4f13.chunk.js.map",
+    "static/js/3.a7ae569e.chunk.js": "/fIOT-webApp/static/js/3.a7ae569e.chunk.js",
+    "static/js/3.a7ae569e.chunk.js.map": "/fIOT-webApp/static/js/3.a7ae569e.chunk.js.map",
+    "index.html": "/fIOT-webApp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/fIOT-webApp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ae6d4f13.chunk.js.LICENSE.txt": "/fIOT-webApp/static/js/2.ae6d4f13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a63204cf.js",
+    "static/js/2.ae6d4f13.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.be2c82a3.chunk.js"
+  ]
+}
